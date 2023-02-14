@@ -7,3 +7,6 @@
 [submodule "StaticDebug"]
 	path = StaticDebug
 	url = ../storage-universal_windows-ARM-StaticDebug
+[submodule "StaticRelease"]
+	path = StaticRelease
+	url = ../storage-universal_windows-ARM-StaticRelease
